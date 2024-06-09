@@ -6,7 +6,7 @@
 Для запуска приложения необходимо выполнить следующие шаги:
 
 Запустите исполняемый файл приложения, чтобы открыть главное окно.
- !https://github.com/iu5git/PyQtLiDAR/blob/main/images/FrontView.png' на путь к изображению главного окна
+ ![https://github.com/iu5git/PyQtLiDAR/blob/main/images/FrontView.png' на путь к изображению главного окна](https://github.com/iu5git/PyQtLiDAR/blob/main/images/ground_extraction.png)
 
 Работа с программой
 Открытие файлов
