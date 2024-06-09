@@ -39,4 +39,4 @@
 Визуализируйте созданные модели в окне приложения.
 Используйте элементы управления для изменения положения и параметров объектов в пространстве.
 
- ![screen1](https://github.com/iu5git/PyQtLiDAR/blob/main/readmeScreens/9.png)
+ ![screen1](https://github.com/iu5git/PyQtLiDAR/blob/main/readmeScreens/7.png)
