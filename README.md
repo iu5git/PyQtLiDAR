@@ -1,4 +1,5 @@
 # PyQtLiDAR
+Ссылка на версию с примером добавления [виджета](https://github.com/iu5git/PyQtLiDAR/tree/dev)
 
 Ссылка на скачивание собранного приложения под [Windows](https://drive.google.com/drive/folders/1mSP5kbIqfUNvEFK_A-grTo3zedErOjRK?usp=sharing)
 
